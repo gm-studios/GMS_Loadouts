@@ -1,5 +1,7 @@
 Config = {}
 
+Config.Debug = false -- Debug messages like when someone uses a loadout.
+
 Config.Loadouts = {
   ["default"] = {
     discordRoleId: 1380683324217098310,
